@@ -10,6 +10,7 @@ Web Application Developer(Web Design & Developer)
 5. Angular Js/ React Js/ Node Js
 
 ***Back-End***
+
 6. PHP / Phython / JavaScript / Java
 
 
